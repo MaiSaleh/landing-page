@@ -82,3 +82,6 @@ button:hover {
     gap: 1rem;
   }
 }
+#formMessage {
+  font-size: 0.9rem;
+}
